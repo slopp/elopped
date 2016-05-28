@@ -1,5 +1,20 @@
 ---
-title: "#eLopped 2017"
+title: Lopp Kellar Wedding
 ---
 
-### Lopp Kellar Wedding
+```{r, out.width = 200, out.height=300, echo=FALSE}
+knitr::include_graphics("img/hiking.jpg")
+```
+
+
+
+Welcome to the definitive source for information about the Lopp & Kellar Wedding. We're excited to have you join in celebrating our special day. For more information visit:
+
+[FAQ](http://slopp.github.io/elopped/about) - Detailed information about the wedding including date, venue information, and more.
+
+[Registry]()  - View our online gift registry.
+
+[Photos](http://slopp.github.io/elopped/photos)
+
+[About Us](http://slopp.github.io/elopped/aboutus) - Learn more about the bride, the groom, and their family.
+

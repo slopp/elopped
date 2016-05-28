@@ -1,5 +1,28 @@
 ---
-title: "About"
+title: "FAQ"
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
-About Page
+
+# Where is the wedding?
+The wedding will be taking place at [Our Lady of Peace](http://www.summitcatholic.org/our-lady-of-peace-silverthorne/) in Silverthorne, CO.
+
+<iframe width="800" height="500" src="http://www.summitcatholic.org/our-lady-of-peace-silverthorne/"  frameborder="0"  allowfullscreen></iframe>
+
+# What is the wedding date?
+Saturday January 7th, 2017
+
+# Where is the wedding reception?
+
+# What time is the wedding?
+
+# What time is the reception?
+
+# What do I need to know about Catholic weddings?
+
+# How do I RSVP?
+
+# How do I change my RSVP?

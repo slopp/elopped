@@ -1,12 +1,16 @@
 name: "elopped"
 output_dir: "."
 navbar:
-  title: "eLopped 2017 - Lopp Kellar Wedding"
+  title: "#eLopped"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "FAQ"
       href: about.html
+    - text: "Photos"
+      href: photos.html
+    - text: "About Us"
+      href: aboutus.html
 output:
   html_document:
       theme: cerulean

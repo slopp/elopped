@@ -1,0 +1,17 @@
+---
+title: About Us
+---
+
+## Sean Lopp
+```{r, out.width = 100, out.height=150, echo=FALSE}
+knitr::include_graphics("img/sean_selfie.jpg")
+```
+
+
+## Madi Kellar
+
+
+## Lopp Family
+
+
+## Kellar Family

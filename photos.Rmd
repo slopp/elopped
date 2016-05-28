@@ -1,0 +1,10 @@
+```{r, out.width = 400, out.height=600, echo=FALSE}
+knitr::include_graphics("img/wedding.jpg")
+```
+
+
+
+```{r, out.width = 400, out.height=600, echo=FALSE}
+knitr::include_graphics("img/skiing.jpg")
+```
+

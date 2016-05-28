@@ -1,4 +1,5 @@
 name: "elopped"
+output_dir: "."
 navbar:
   title: "eLopped 2017 - Lopp Kellar Wedding"
   left:

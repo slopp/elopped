@@ -13,4 +13,4 @@ navbar:
       href: aboutus.html
 output:
   html_document:
-      theme: cerulean
+      theme: flatly

@@ -1,4 +1,4 @@
-```{r, out.width = 400, out.height=600, echo=FALSE}
+s```{r, out.width = 400, out.height=600, echo=FALSE}
 knitr::include_graphics("img/wedding.jpg")
 ```
 

@@ -12,6 +12,8 @@ Welcome to the definitive source for information about the Lopp & Kellar Wedding
 
 [FAQ](http://slopp.github.io/elopped/about) - Detailed information about the wedding including date, venue information, and more.
 
+[RSVP](http://seandemo.shinyapps.io/elopped) - RSVP to attend the wedding.
+
 [Registry]()  - View our online gift registry.
 
 [Photos](http://slopp.github.io/elopped/photos)

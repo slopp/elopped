@@ -28,7 +28,7 @@ server <- function(input,output) {
   })
   
   observeEvent(input$submit,{
-            
+            s3load(object="rsvplist.Rdata", bucket=get_bucket("elopped"))
             #delete_object(object="rsvplist.Rdata", bucket=get_bucket("elopped"))
     
                data <- data.frame(

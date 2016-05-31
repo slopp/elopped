@@ -29,7 +29,7 @@ server <- function(input,output) {
   
   observeEvent(input$submit,{
             
-            delete_object(object="rsvplist.Rdata", bucket=get_bucket("elopped"))
+            #delete_object(object="rsvplist.Rdata", bucket=get_bucket("elopped"))
     
                data <- data.frame(
                  lastname=input$lastname,

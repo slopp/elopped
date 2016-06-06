@@ -7,41 +7,41 @@ output:
 
 
 
-# Contact
+### Contact
 For any questions contact Madison Kellar at . On the day of the wedding, please reach out to .
 
-# Wedding .{tabset}
 
-## Where is the wedding?
+### Where is the wedding?
 The wedding will be taking place at [Our Lady of Peace](http://www.summitcatholic.org/our-lady-of-peace-silverthorne/) in Silverthorne, CO.
 
 <iframe width="800" height="500" src="http://www.summitcatholic.org/our-lady-of-peace-silverthorne/"  frameborder="0"  allowfullscreen></iframe>
 
-## When is the wedding?
+### When is the wedding?
 The wedding is Saturday January 7th, 2017. The ceremony begins at 2pm, please plan on arriving a half hour early. It takes about an hour to get to Silverthorne from Denver but check [CDOT](http://www.cotrip.org/highways.htm#?commuteRouteId=54) for traffic and weather.
 
-## A Catholic wedding?
+### A Catholic wedding?
 
 A Catholic wedding is about an hour and a half long, and includes a mass.
 
 
-#Reception .{tabset} 
 
-## Where is the wedding reception?
+### Where is the wedding reception?
 The wedding reception will be at Warren Station at Keystone
 
-## When is the reception?
+### When is the reception?
 The reception begins at and ends at
 
-## How do I get from the wedding to the reception?
+### How do I get from the wedding to the reception?
 
 
-#Out-of-town Guests .{tabset}
-## Where is lodging for out-of-town guests?
 
-## How do I get from the airport to the hotel in Silverthorne?
+### Where is lodging for out-of-town guests?
 
-#RSVP .{tabset}
-## How do I RSVP?
+### How do I get from the airport to the hotel in Silverthorne?
 
-## How do I change my RSVP?
+
+### How do I RSVP?
+Go to the RSVP [site](http://seandemo.shinyapps.io/elopped)
+
+### How do I change my RSVP?
+Contact Madison or Sean.

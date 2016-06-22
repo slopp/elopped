@@ -8,3 +8,5 @@ knitr::include_graphics("img/wedding.jpg")
 knitr::include_graphics("img/skiing.jpg")
 ```
 
+
+

@@ -13,8 +13,7 @@ For any questions contact Madison Kellar at madi.kellar@gmail.com. On the day of
 
 ### Where is the wedding?
 The wedding will be taking place at [Our Lady of Peace](http://www.summitcatholic.org/our-lady-of-peace-silverthorne/).
-89 Smith Ranch Rd.   
-Silverthorne, CO 80498
+writeLines("89 Smith Ranch Rd.\n Silverthorne, CO 80498")
 
 <iframe width="800" height="500" src="http://www.summitcatholic.org/our-lady-of-peace-silverthorne/"  frameborder="0"  allowfullscreen></iframe>
 

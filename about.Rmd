@@ -13,16 +13,17 @@ For any questions contact Madison Kellar at madi.kellar@gmail.com. On the day of
 
 ### Where is the wedding?
 The wedding will be taking place at [Our Lady of Peace](http://www.summitcatholic.org/our-lady-of-peace-silverthorne/).
-writeLines("89 Smith Ranch Rd.\n Silverthorne, CO 80498")
 
 <iframe width="800" height="500" src="http://www.summitcatholic.org/our-lady-of-peace-silverthorne/"  frameborder="0"  allowfullscreen></iframe>
 
 ### When is the wedding?
-The wedding is Saturday January 7th, 2017. The ceremony begins at 2pm, please plan on arriving a half hour early. It takes about an hour to get to Silverthorne from Denver but check [CDOT](http://www.cotrip.org/highways.htm#?commuteRouteId=54) for traffic and weather.
+The wedding is Saturday January 7th, 2017. The ceremony begins at 2:00 pm, please plan on arriving a half hour early. It takes about an hour to get to Silverthorne from Denver but check [CDOT](http://www.cotrip.org/highways.htm#?commuteRouteId=54) for traffic and weather.
 
 ### A Catholic wedding?
 
 A Catholic wedding is about an hour and a half long, and includes a mass with Holy Communion.
+
+Communion?
 
 For Catholics:
 As Catholics, we fully participate in the celebration of the Eucharist when we receive Holy Communion. We are encouraged to recieve Holy Communion devoutly and frequently. In order to be properly disposed to receive Communion, participants should not be conscious of grave sin and normally should have fasted for one hour. A frequent reception of the Sacrament of Penance is encouraged for all who are receiving Communion.
@@ -42,7 +43,7 @@ The wedding reception will be at Warren Station at Keystone.
 Keystone, CO 80435
 
 ### When is the reception?
-The reception begins at 4:00pm and ends at
+The reception begins at 4:30pm and ends at 8:30pm.
 
 ### How do I get from the wedding to the reception?
 

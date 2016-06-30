@@ -9,7 +9,7 @@ knitr::include_graphics("img/sean_selfie.jpg")
 
 
 ## Madi Kellar
-
+Madison graduated from Colorado School of Mines in May with a B.S. in Applied Math. She is on her way to becoming a high school math teacher through the BOettcher Teacher Residency. She is currently in school for her Masters in Education and student teaches in Thornton, CO.
 
 ## Lopp Family
 

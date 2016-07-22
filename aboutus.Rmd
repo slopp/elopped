@@ -3,15 +3,15 @@ title: About Us
 ---
 
 ## Sean Lopp
-```{r, out.width = 100, out.height=150, echo=FALSE}
-knitr::include_graphics("img/sean_selfie.jpg")
-```
+Sean graduated from Mines in May 2015 with a B.S. in Statistics. He currently works remotely as a software salesman at RStudio. In his free time he skis, bikes, and recently began kayaking with Madison's help!
 
 
 ## Madi Kellar
 Madison graduated from Colorado School of Mines in May 2016 with a B.S. in Applied Math. She is on her way to becoming a high school math teacher through the Boettcher Teacher Residency. She is currently in school for her Masters in Education and student teaches in Thornton, CO.
 
 ## Lopp Family
+Sean's parents are Roger and Maureen. Both grew up in small towns in Indiana, met at Purdue University, and have been married for 30 years. After vacationing in Colorado, they made Evergreen their home in the early 90s. Sean was born in 1994, and Colleen followed in 1996. Roger and Maureen both have technology related jobs and spend time off enjoying the mountains. Sean graduated from Colorado School of Mines in 2015, and he currently works for a software company and spends time off as a wedding planner. Colleen is working on a Biology degree at Regis University.  In addition to juggling jobs, she does volunteer work and has an active social life.
+
 
 
 ## Kellar Family

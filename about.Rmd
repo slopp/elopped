@@ -5,16 +5,17 @@ output:
     toc_float: true
 ---
 
-
-
 ### Contact
 For any questions contact Madison Kellar at madi.kellar@gmail.com. On the day of the wedding, please reach out to .
 
 
 ### Where is the wedding?
 The wedding will be taking place at [Our Lady of Peace](http://www.summitcatholic.org/our-lady-of-peace-silverthorne/).
+s
+Our Lady of Peace Church
+89 Smith Ranch Rd
+Silverthorne, CO 80498
 
-<iframe width="800" height="500" src="http://www.summitcatholic.org/our-lady-of-peace-silverthorne/"  frameborder="0"  allowfullscreen></iframe>
 
 ### When is the wedding?
 The wedding is Saturday January 7th, 2017. The ceremony begins at 2:00pm, please plan on arriving a half hour early. It takes about *two hours* to get to Silverthorne from Denver but check [CDOT](http://www.cotrip.org/highways.htm#?commuteRouteId=54) for traffic and weather.
@@ -32,20 +33,35 @@ We of course welcome all, and are delighted you have come to celebrate with us. 
 For those not recieving Holy Communion, you may remain in your seat during Holy Communion, or come forward with your arms crossed over your chest to receive a blessing.
 
 ### Where is the wedding reception?
-The wedding reception will be at Warren Station at Keystone.
+The wedding reception will be at [Warren Station](http://www.warrenstation.com/) at Keystone.
+
+Warren Station
 164 Ida Belle Dr.
 Keystone, CO 80435
+
+Follow signs for the free skier parking in the River Run parking lot. Park on the West end of the lot. Warren station is a permanent tent structure just west of the main village. (If you reach the gondala, you've gone too far!)
 
 ### When is the reception?
 The reception begins at 4:30pm and ends at 8:30pm.
 
 ### How do I get from the wedding to the reception?
 
+Follow this [map](https://www.google.com/maps/dir/Our+Lady+of+Peace+Church,+Smith+Ranch+Road,+Silverthorne,+CO/Warren+Station+at+Keystone,+Ida+Belle+Drive,+Keystone,+CO/@39.6256517,-106.0465285,13z/am=t/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x876a5b77f3d4c15b:0x447cb6290e629536!2m2!1d-106.080912!2d39.6485228!1m5!1m1!1s0x876a57349583c011:0x5ed51bb876538235!2m2!1d-105.941881!2d39.607108)
 
+```{r, out.width = 1800, out.height=2000, echo=FALSE}
+knitr::include_graphics("img/map.png")
+```
 
 ### Where is lodging for out-of-town guests?
+We have booked rooms at the Ptarmagin Best Western and the ... To reserve a room contact the following:
+
+Best Western Ptarmagin 
+
+....
 
 ### How do I get from the airport to the hotel in Silverthorne?
+
+We recommend renting a car, but guests can also get from DIA to Silverthorne via the [Colorado Mountain Express Shuttle](https://www.coloradomountainexpress.com/summit-county) (reservations required.)
 
 
 ### How do I RSVP?

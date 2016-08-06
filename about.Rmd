@@ -6,13 +6,13 @@ output:
 ---
 
 ### Contact
-For any questions contact Madison Kellar at madi.kellar@gmail.com. On the day of the wedding, please reach out to .
+For any questions contact Madison Kellar at madi.kellar@gmail.com.
 
 
 ### Where is the wedding?
 The wedding will be taking place at [Our Lady of Peace](http://www.summitcatholic.org/our-lady-of-peace-silverthorne/).
-s
-Our Lady of Peace Church
+
+Our Lady of Peace:
 89 Smith Ranch Rd
 Silverthorne, CO 80498
 
@@ -35,11 +35,11 @@ For those not recieving Holy Communion, you may remain in your seat during Holy 
 ### Where is the wedding reception?
 The wedding reception will be at [Warren Station](http://www.warrenstation.com/) at Keystone.
 
-Warren Station
+Warren Station:
 164 Ida Belle Dr.
 Keystone, CO 80435
 
-Follow signs for the free skier parking in the River Run parking lot. Park on the West end of the lot. Warren station is a permanent tent structure just west of the main village. (If you reach the gondala, you've gone too far!)
+Follow signs for the free skier parking in the River Run parking lot. Park on the West end of the lot. Warren station is a permanent white tent structure just west of the main village. (If you reach the gondala, you've gone too far!)
 
 ### When is the reception?
 The reception begins at 4:30pm and ends at 8:30pm.
@@ -53,9 +53,9 @@ knitr::include_graphics("img/map.png")
 ```
 
 ### Where is lodging for out-of-town guests?
-We have booked rooms at the Ptarmagin Best Western and the ... To reserve a room contact the following:
+We have reserved rooms at the Ptarmigan Lodge Best Western (652 Lake Dillon Drive Dillon, CO 80435). To reserve a room, contact Ptarmigan Lodge at (970)468-2341 and mention that you are coming for the Lopp/Kellar Wedding. Discounted rates are as follows:
 
-Best Western Ptarmagin 
+
 
 ....
 

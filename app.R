@@ -6,6 +6,7 @@ library(DT)
 
 
 ui <- fluidPage(title="#eLopped 2017 - RSVP", theme=shinytheme("flatly"),
+                h5("Return to Main Site:", a("#eLopped", href="https://slopp.github.io/elopped")),
                 sidebarPanel(
                 textInput("lastname", label="Last Name:"),
                 textInput("firstname", label="First Name:"),

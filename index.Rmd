@@ -14,7 +14,7 @@ Welcome to the definitive source for information about the Lopp & Kellar Wedding
 
 [RSVP](http://seandemo.shinyapps.io/elopped) - RSVP to attend the wedding.
 
-[Registry]()  - View our online gift registry.
+[Registry](http://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&registryId=543552815&pwsurl=)  - View our online gift registry at Bed, Bath, and Beyond. An additional registry at REI is coming soon!
 
 [Photos](http://slopp.github.io/elopped/photos)
 

@@ -54,7 +54,9 @@ knitr::include_graphics("img/map.png")
 
 ### Where is lodging for out-of-town guests?
 We have reserved rooms at the Ptarmigan Lodge Best Western (652 Lake Dillon Drive Dillon, CO 80435). To reserve a room, contact Ptarmigan Lodge at (970)468-2341 and mention that you are coming for the Lopp/Kellar Wedding. Discounted rates are as follows:
-
+1 King: $107.09
+2 Queens $111.59
+2 Doubles $116.09
 
 
 ....

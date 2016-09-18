@@ -1,12 +1,50 @@
-```{r, out.width = 400, out.height=600, echo=FALSE}
-knitr::include_graphics("img/wedding.jpg")
+```{r, echo=FALSE}
+library(htmltools)
 ```
 
 
+```{r, echo=FALSE}
+imgs <- c("img/Awesome1.png","img/Awesome6.png","img/Awesome9.png","img/Costco1.JPG","img/DSCN1600.png","img/DSCN1608.JPG","img/DSCN1622.JPG","img/skiing.jpg", "img/wedding.jpg", "img/Costco2.JPG")
 
-```{r, out.width = 400, out.height=600, echo=FALSE}
-knitr::include_graphics("img/skiing.jpg")
+thumbnail <- function(img) {
+  div(class = "col-sm-4", a(
+        img(src = img))
+  )
+}
+
+thumbnails <- function(thumbs) {
+  
+  # capture arguments and setup rows to return
+  numThumbs <- length(thumbs)
+  fullRows <- numThumbs / 3
+  rows <- tagList()
+  
+  # add a row of thumbnails
+  addRow <- function(first, last) {
+    rows <<- tagAppendChild(rows, div(class = "row", br(thumbs[first:last])))
+  }
+  
+  # handle full rows
+  for (i in 1:fullRows) {
+    last <- i * 3
+    first <- last-2
+    addRow(first, last)
+  }
+  
+  # check for leftovers
+  leftover <- numThumbs %% 3
+  if (leftover > 0) {
+    last <- numThumbs
+    first <- last - leftover + 1
+    addRow(first, last)
+  }
+  
+  # return the rows!
+  rows
+}
+
+thumbnails(lapply(imgs, function(img) {
+    thumbnail(img)
+}))
 ```
-
-
 
